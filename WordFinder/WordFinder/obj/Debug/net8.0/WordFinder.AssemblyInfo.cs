@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ff71c98dcb09f75d6a4608bd960cd379593dad")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
