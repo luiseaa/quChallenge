@@ -1,0 +1,14 @@
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/bin/Debug/net8.0/WordFinder
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/bin/Debug/net8.0/WordFinder.deps.json
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/bin/Debug/net8.0/WordFinder.runtimeconfig.json
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/bin/Debug/net8.0/WordFinder.dll
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/bin/Debug/net8.0/WordFinder.pdb
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/WordFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/WordFinder.AssemblyInfoInputs.cache
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/WordFinder.AssemblyInfo.cs
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/WordFinder.csproj.CoreCompileInputs.cache
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/WordFinder.dll
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/refint/WordFinder.dll
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/WordFinder.pdb
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/WordFinder.genruntimeconfig.cache
+/Users/luisalfaro/Projects/quChallenge/WordFinder/WordFinder/obj/Debug/net8.0/ref/WordFinder.dll
